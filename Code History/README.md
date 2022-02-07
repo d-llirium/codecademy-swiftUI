@@ -9,4 +9,4 @@ You created a final view and view model to display the score.
 You then used the data from the Game model to generate a user score. 
 You’ve now acquired the skills and core fundamental concepts to build an application all on your own. 
 
-![](https://github.com/d-llirium/codecademy/blob/main/AddressBook-Initial/AddressBook.gif?raw=true)
+![](https://github.com/d-llirium/codecademy/blob/main/Code%20History/CodeHistory.gif?raw=true)
