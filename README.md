@@ -1,10 +1,10 @@
 # projects from codecademy [Build iOS Apps with SWIFTUI Skill Path](https://www.codecademy.com/learn/paths/build-ios-apps-with-swiftui)
 
-### . [AddressBook Initial](readME.md)
+### . [addressBook initial](https://github.com/d-llirium/codecademy/tree/main/AddressBook-Initial#readme)
 
 <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook01.png?raw=true" width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook02.png?raw=true"  width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook03.png?raw=true"  width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook04.png?raw=true"  width="200" height="400">
 
-### . [project2](https://github.com/d-llirium/100daysOfSwift/blob/main/Project2/README.md)
+### . [code history](https://github.com/d-llirium/100daysOfSwift/blob/main/Project2/README.md)
 
 <img src="https://github.com/d-llirium/100daysOfSwift/blob/main/project2_screen1.png?raw=true" width="200" height="400">  <img src="https://github.com/d-llirium/100daysOfSwift/blob/main/project2_screen2.png?raw=true" width="200" height="400">  <img src="https://github.com/d-llirium/100daysOfSwift/blob/main/project2_screen3.png?raw=true" width="200" height="400"> <img src="https://github.com/d-llirium/100daysOfSwift/blob/main/project2_screen4.png?raw=true" width="200" height="400"> 
 
