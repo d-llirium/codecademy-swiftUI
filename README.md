@@ -4,9 +4,9 @@
 
 <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook01.png?raw=true" width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook02.png?raw=true"  width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook03.png?raw=true"  width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook04.png?raw=true"  width="200" height="400">
 
-### . [code history](https://github.com/d-llirium/100daysOfSwift/blob/main/Project2/README.md)
+### . [code history](https://github.com/d-llirium/codecademy/blob/main/Code%20History/README.md)
 
-<img src="https://github.com/d-llirium/100daysOfSwift/blob/main/project2_screen1.png?raw=true" width="200" height="400">  <img src="https://github.com/d-llirium/100daysOfSwift/blob/main/project2_screen2.png?raw=true" width="200" height="400">  <img src="https://github.com/d-llirium/100daysOfSwift/blob/main/project2_screen3.png?raw=true" width="200" height="400"> <img src="https://github.com/d-llirium/100daysOfSwift/blob/main/project2_screen4.png?raw=true" width="200" height="400"> 
+<img src="https://github.com/d-llirium/codecademy/blob/main/CodeHistory01.png?raw=true" width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/CodeHistory02.png?raw=true" width="200" height="400">  <img src="https://github.com/d-llirium/codecademy/blob/main/CodeHistory03.png?raw=true" width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/CodeHistory04.png?raw=true" width="200" height="400">
 
 ### . [project3](https://github.com/d-llirium/100daysOfSwift/blob/main/Project3/README.md)
 
