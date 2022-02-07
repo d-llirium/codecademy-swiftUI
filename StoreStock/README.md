@@ -6,4 +6,4 @@ Using SWIFTUI
 
 You’ve now navigated your way through this article and have arrived at the end, great job! As you move forward in this course and continue working on your project, you’ll use NavigationView and NavigationLink to display new views to the learner.
 
-![](https://github.com/d-llirium/codecademy/blob/main/AddressBook-Initial/AddressBook.gif?raw=true)
+![](https://github.com/d-llirium/codecademy/blob/main/StoreStock/StoreStock.gif?raw=true)

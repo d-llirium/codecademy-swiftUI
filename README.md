@@ -6,9 +6,15 @@
 <img src="https://github.com/d-llirium/codecademy/blob/main/HandlingErrors.png?raw=true" width="200" height="400">
 
 
+### . [store stock](https://github.com/d-llirium/codecademy/blob/main/StoreStock/README.md)
+
+<img src="https://github.com/d-llirium/codecademy/blob/main/StoreStock01.png?raw=true" width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/StoreStock02.png?raw=true" width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/StoreStock03.png?raw=true" width="200" height="400"> 
+
+
 ### . [addressBook initial](https://github.com/d-llirium/codecademy/tree/main/AddressBook-Initial#readme)
 
 <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook01.png?raw=true" width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook02.png?raw=true"  width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook03.png?raw=true"  width="200" height="400"> <img src="https://github.com/d-llirium/codecademy/blob/main/AddressBook04.png?raw=true"  width="200" height="400">
+
 
 ### . [code history](https://github.com/d-llirium/codecademy/blob/main/Code%20History/README.md)
 
