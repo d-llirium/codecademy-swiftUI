@@ -1,11 +1,9 @@
 
-####  [. AddressBook Initial](https://www.codecademy.com/paths/build-ios-apps-with-swiftui/tracks/creating-user-interfaces-with-swiftui/modules/debugging-swiftui/articles/handling-errors-in-xcode)
+####  [. store stock](https://www.codecademy.com/paths/build-ios-apps-with-swiftui/tracks/building-code-history-part-three-swiftui/modules/building-the-welcome-screen-swiftui/articles/introduction-to-navigation-swiftui)
 
 Using SWIFTUI
 ### by d_llirium
 
-we covered some practical methods for finding and eliminating compile-time and runtime errors using the tools provided by Xcode. 
-
-We saw how to use the issue navigator, debug console, debug navigator, breakpoints, and the breakpoint navigator. Becoming a good debugger is like becoming a good detective: it’s a combination of being curious, being persistent, looking at all of the evidence, and utilizing all available tools and methodologies. And like anything else, practice makes perfect! 
+You’ve now navigated your way through this article and have arrived at the end, great job! As you move forward in this course and continue working on your project, you’ll use NavigationView and NavigationLink to display new views to the learner.
 
 ![](https://github.com/d-llirium/codecademy/blob/main/AddressBook-Initial/AddressBook.gif?raw=true)
